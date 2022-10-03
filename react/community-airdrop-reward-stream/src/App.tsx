@@ -14,8 +14,8 @@ import {
   IfWalletNotConnected,
 } from "flair-sdk";
 
-const STREAM_CHAIN_ID = "137";
-const STREAM_CONTRACT_ADDRESS = "0xbb1cb56e057022fba8d55c8dde1d17adbd3be649";
+const STREAM_CHAIN_ID = "5";
+const STREAM_CONTRACT_ADDRESS = "00x176675537b4C15dB62C47a3f8fF5b80e10bAD5A2";
 
 function App() {
   const chainId = Number(STREAM_CHAIN_ID);
